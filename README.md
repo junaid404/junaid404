@@ -1,7 +1,7 @@
-![](banner.svg)
+![](https://github.com/junaid404/junaid404/blob/master/banner.svg)
 
 <h2>
-Hello, folks &nbsp;<img src="./wave.gif" height=30 />
+Hello, folks &nbsp;<img src="https://github.com/junaid404/junaid404/blob/master/wave.gif" height=30 />
 </h2>
 
 My name is Junaid Javed and I'm a software developer / engineer. I'm from Pakistan, living in Haripur and currently studying Computer Science at college.
